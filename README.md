@@ -1,4 +1,4 @@
-#GitHub Searcher
+# GitHub Searcher
 
 [GitHubSearcher App](https://jelenabircevic.github.io/github-searcher)
 
